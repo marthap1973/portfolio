@@ -7,4 +7,4 @@ word_in_morse = ""
 for letter in word:
     letter_in_morse = translation_dict.get(letter)
     word_in_morse = word_in_morse + " " + letter_in_morse
-print(f"Translation to morse code: {word_in_morse}")
+print(f"Translation to morse code: {word_in_morse}
