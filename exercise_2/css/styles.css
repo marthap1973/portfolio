@@ -1,0 +1,35 @@
+html {    
+    background: url("https://images.pexels.com/photos/399161/pexels-photo-399161.jpeg") no-repeat center fixed;     
+    background-size: cover;
+}
+
+h1 {
+font: 2em sans-serif;
+color: #162623;
+}
+
+h3 {
+    font: 1em sans-serif;
+    color: #4A5958;
+}
+
+p {
+    font: 1em sans-serif;
+    color: #4A5958;   
+}
+
+th {
+    font: 1em sans-serif;
+    color: #4A5958;   
+}
+
+td {
+    font: 1em serif;
+    color: #8C7570;   
+}
+
+
+a {
+    font: 1em sans-serif;
+    color: #118EBF;   
+}
